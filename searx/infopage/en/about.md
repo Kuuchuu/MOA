@@ -6,7 +6,7 @@ of other search engines while not storing information about its users.
 
 
 The SearXNG and Moa projects are driven by an open community,
-come join us on Matrix and Telegram if you have questions or just want to chat about SearXNG or Moa at [#searxng:matrix.org] & [@moa:telegram.com](https://t.me/moa_engine).
+come join us on Matrix and Telegram if you have questions or just want to chat about SearXNG or Moa at [#searxng:matrix.org] & [@moa_engine:telegram.com](https://t.me/moa_engine).
 
 Make Moa better.
 
