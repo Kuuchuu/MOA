@@ -60,7 +60,7 @@ reclaim their privacy and make the internet freer. The more decentralized the
 internet is, the more freedom we have!
 
 
-[Moa sources]: {{GIT_URL}}
+[Moa sources]: {{get_setting('brand.git_url')}}
 [#searxng:matrix.org]: https://matrix.to/#/#searxng:matrix.org
 [SearXNG docs]: {{get_setting('brand.docs_url')}}
 [searx]: https://github.com/searx/searx
