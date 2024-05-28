@@ -1,74 +1,66 @@
 
 # About Moa
 
-Moa is a [metasearch engine] based on SearXNG that aggregates other results
-{{link('search engines', 'preferences')}} While information about users is not saved
+Moa is a [metasearch engine] based on SearXNG that aggregates the results
+of other search engines while not storing information about its users.
 
 
-The Moa project is driven by an open community.
-  If you join us at Matrix
-Have questions or just want to chat about SearXNG at [#searxng:matrix.org].
+The SearXNG and Moa projects are driven by an open community,
+come join us on Matrix and Telegram if you have questions or just want to chat about SearXNG or Moa at [#searxng:matrix.org] & [@moa:telegram.com](https://t.me/moa_engine).
 
 Make Moa better.
 
-- You can improve SearXNG translations on [Weblate], or...
-- Track development, post contributions, and report issues at [SearXNG Resources].
-- For more information, see the SearXNG project documentation at [SearXNG
-    documents].
+- You can improve Moa / SearXNG translations on [Weblate], or...
+- Track development, post contributions, and report issues at [Moa sources].
+- For more information, see the SearXNG project documentation at [SearXNG docs].
 
 ## Why use it?
 
-- Moa may not give you as personalized results as Google, but it doesn't
-    Create a profile about you
-- SearXNG doesn't care what you search, it never shares anything with a
-    third party, and cannot be used to compromise you.
-- Moa is free software, 100% open source and everyone is welcome
-    make it better.
+- Moa may not offer you as personalized results as Google, but it doesn’t generate a profile about you.
+- Moa doesn’t care about what you search for, never shares anything with a third-party, and it can’t be used to compromise you.
+- Moa is free software, the code is 100% open, and everyone is welcome to make it better.
 
-If you care about privacy, you want to be an informed user, or believe it otherwise
-In Digital Freedom, make MOA your default search engine or run it on your own
-Your server!
+If you do care about privacy, want to be a conscious user, or otherwise
+believe in digital freedom, make Moa your default search engine
+or run it on your own server!
 
 ## How do I set it as the default search engine?
 
-MOA supports [OpenSearch]. For more information about changing your defaults
-Search engine, see your browser documentation:
+Moa supports [OpenSearch]. For more information on changing your default
+search engine, see your browser’s documentation:
 
 - [Firefox]
-- [Microsoft Edge] - Behind the link you will also find helpful instructions
-    For Chrome and Safari
-- [Chromium] based browsers only add websites that the user navigates without
-    one path.
+- [Microsoft Edge] - Behind the link, you will also find some useful instructions for Chrome and Safari.
+- [Chromium]-based browsers only add websites that the user navigates to without a path.
 
-When adding a search engine, there should not be duplicates of the same name. If
-You encounter the problem that you cannot add a search engine, you can do one of the following:
+When adding a search engine, there must be no duplicates with the same name. If
+you encounter a problem where you cannot add the search engine, you can either:
 
-- Remove duplicates (default name: SearXNG) or
+- Remove the duplicate (default name: "Moa | Ports.Exposed") or
 - Contact the owner to give the instance a different name than the default.
 
-## how it works?
+## How does it work?
 
-MOA is a fork of SearXNG and it is also based on the famous [searx] [metasearch engine] that was
-Inspired by [Project Seeks]. It provides basic privacy by blending you in
-Search queries on other operating systems without saving search data. Moa
-It can be added to your browser's search bar. In addition, it can be set as
-Default search engine
+Moa is a fork of SearXNG which itself is a fork from the well-known [searx] [metasearch engine] which was
+inspired by the [Seeks project]. It provides basic privacy by mixing your
+queries with searches on other platforms without storing search data. Moa
+can be added to your browser’s search bar; moreover, it can be set as
+the default search engine.
 
-{{link('stats page', 'stats')}} contains some useful anonymous applications
-Statistics of engines used
+The {{link('stats page', 'stats')}} contains some useful anonymous usage
+statistics about the engines used.
 
 ## How can I make it mine?
 
-Moa appreciates your concern about reports, so get the code from it
-[SearXNG Resources] and run it yourself!
+Moa appreciates your concern regarding logs, so take the code from the
+[Moa sources] and run it yourself!
 
-Add your sample to this [public list
-instances]({{get_setting('brand.public_instances')}}) to help other people
-Protecting their privacy and making the internet freer. The more decentralized it is
-It's the Internet, our freedom is greater!
+Add your instance to this [list of public instances]({{get_setting('brand.public_instances')}}) to help other people
+reclaim their privacy and make the internet freer. The more decentralized the
+internet is, the more freedom we have!
 
 
-[SearXNG sources]: {{GIT_URL}}
+[Moa sources]: {{GIT_URL}}
 [#searxng:matrix.org]: https://matrix.to/#/#searxng:matrix.org
 [SearXNG docs]: {{get_setting('brand.docs_url')}}
 [searx]: https://github.com/searx/searx
