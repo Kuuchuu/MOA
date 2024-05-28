@@ -577,7 +577,7 @@ msgstr ""
 
 #: searx/templates/simple/base.html:68
 msgid "a privacy-respecting, open metasearch engine"
-msgstr "Moa, a SearXNG-based and free metasearch that respects your privacy"
+msgstr "Moa: a privacy-respecting, open metasearch engine based on SearXNG"
 
 #: searx/templates/simple/base.html:69
 #: searx/templates/simple/result_templates/packages.html:59
