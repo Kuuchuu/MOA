@@ -114,7 +114,10 @@
       }
     }, true);
 
-    d.querySelector('small a[data-target="#result-map-1"]').click();
+    const osm = document.querySelector('small a[data-target="#result-map-1"]');
+    if (osm) {
+      osm.click()
+    }
   });
 
 })(window, document, window.searxng);
