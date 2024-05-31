@@ -36,7 +36,7 @@ search engine, see your browser’s documentation:
 When adding a search engine, there must be no duplicates with the same name. If
 you encounter a problem where you cannot add the search engine, you can either:
 
-- Remove the duplicate (default name: "Moa | Ports.Exposed") or
+- Remove the duplicate (default name: "{{get_setting('general.instance_name')}}") or
 - Contact the owner to give the instance a different name than the default.
 
 ## How does it work?
